@@ -1,0 +1,7 @@
+{
+  "name": "Endereçamento - Gestão de Estoque (Finalizado)",
+  "description": "Sistema completo para controle de estoque, recebimento de notas fiscais e endereçamento físico de produtos. FASE 5 (Relatórios e Inteligência) implementada com sucesso. Integrado com Supabase, filtros dinâmicos e exportação CSV.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
